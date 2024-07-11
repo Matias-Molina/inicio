@@ -11,7 +11,7 @@ div.innerHTML = `<div class="menu-container ">
       
       <li><a href='#' ignore_aff>MIS CONOCIMIENTO</a>
         <ul>
-        <li><a href="/sobremi/index.html">SOBRE MI</a></li>
+        <li><a href="sobremi/index.html">SOBRE MI</a></li>
         <li><a href="https://www.youtube.com/@podcastLJM">JUGADA MAESTRA</a></li>
         <li><a href="http://surl.li/jwxwix">REUNION ESTRATEGICA</a></li>
           <li><a href="http://surl.li/vgunrj">DIA A DIA CON UN MILLONARIO</a></li>
