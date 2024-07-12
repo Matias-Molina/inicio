@@ -1229,7 +1229,7 @@
   }
   
   .section_hero {
-    background-image: url('/img/Capa\ 7.png');
+    background-image: url('../img/Capa\ 7.png');
     background-repeat: no-repeat;
     background-size: contain;
     flex-direction: column;
